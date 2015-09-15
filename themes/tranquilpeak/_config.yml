@@ -31,17 +31,21 @@ sidebar:
             title: global.home
             url: /
             icon: home
+        members:
+            title: members
+            url: /20150915/members
+            icon: archive
         categories:
             title: global.categories
-            url: /all-categories
+            url: /categories
             icon: bookmark
         tags:
             title: global.tags
-            url: /all-tags
+            url: /tags
             icon: tags
         archives:
             title: global.archives
-            url: /all-archives
+            url: /archives
             icon: archive
         search:
             title: global.search
